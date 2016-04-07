@@ -9,6 +9,7 @@ import android.widget.LinearLayout;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private LinearLayout vertcalLayout1;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
